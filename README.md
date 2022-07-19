@@ -16,4 +16,4 @@ You have to define your mySQL username and password parts in 'src -> main -> res
 Required dependencies are given with 'pom.xml' and the World Database 'world.sql' file at the root folder.<br>
 For get the project up: You can run main package as Java Application or Spring Boot Application. <br>
 <br>
-As you can see in the CityController:<br> <br>localhost:8080/api <br> localhost:8080/api/cities <br> localhost:8080/api/cities/{id} <br> localhost:8080/api/add <br> localhost:8080/api/update <br> localhost:8080/api/delete <br><br>
+As you can see in the CityController:<br> <br>localhost:8080/api <br> localhost:8080/api/cities <br> localhost:8080/api/cities/{id} <br> localhost:8080/api/add <br> localhost:8080/api/update <br> localhost:8080/api/delete <br><br> 
